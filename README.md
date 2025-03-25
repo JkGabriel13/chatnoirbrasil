@@ -38,7 +38,7 @@ Se quiser contribuir com melhorias, faça um **fork** do repositório e envie um
 
 ## 📧 Suporte
 
-Caso encontre problemas ou tenha dúvidas, entre em contato via [seu email ou link de suporte].
+Caso encontre problemas ou tenha dúvidas, entre em contato via [chatnbr1@gmail.com].
 
 ---
 
