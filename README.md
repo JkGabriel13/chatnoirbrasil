@@ -4,7 +4,7 @@
 
 ## 📥 Download e Instalação
 
-1. Baixe o APK: [Link para download]([#](https://apkpure.com/p/io.kodular.gabrieldiasrocha14.splash_screen)) 
+1. Baixe o APK: [Link para download](#) <!-- https://apkpure.com/p/io.kodular.gabrieldiasrocha14.splash_screen -->
 2. No seu dispositivo Android, vá para **Configurações > Segurança** e ative **Fontes desconhecidas** (se necessário).
 3. Localize o arquivo baixado e toque para instalar.
 
